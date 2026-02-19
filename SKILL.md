@@ -4,7 +4,7 @@ description: Transform paralyzing fears into manageable concerns by revealing th
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4630
+  version: 1.0.4631
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - paper-tiger-fear-reframe
